@@ -36,7 +36,7 @@ Discord = laura#5939
 
 This is a very minimal implementation of the Pacman game, having only one level and without ghosts strategy, not even with random movements (yes, the routes are programmed). However, we may improve this game in the future and everyone else interested can feel free to fork and contribute to this project.
 
-![Pacman Game Window](https://raw.github.com/hbokmann/Pacman/master/images/readme.jpg)
+![Pacman Game Window]([https://raw.github.com/hbokmann/Pacman/master/images/readme.jpg])
 
 
 # Future development
