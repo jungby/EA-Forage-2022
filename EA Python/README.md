@@ -1,18 +1,18 @@
-### //NEW README
+# //NEW README
 
-### The Revenge of Pacman
+# The Revenge of Pacman
 
 This is an adaptation of hbokmann's code designed for Electronic Arts USA, which needed some changes, not only to the original code but also to make the different version that is being asked for.
 
 It has two versions but only one difference between them; the first one has the original ghosts (colored ones) and the second one has only numb blue ghosts.
 
-# Changes (adaptation)
+### Changes (adaptation)
 
 * Pac-Man can kill a ghost if he comes into contact with it or viceversa
 * Each ghost that has not yet been hit multiplies itself every 30 seconds
 * Pac-man needs to collect every point before the ghosts before the number of ghosts grows to 32 times the original number (128 ghosts)
 
-# Minor changes (from the original)
+### Minor changes (from the original)
 
 * Changed the icon
 * Changed the background music to Slider - Kōji Kondō (Part of Mario 64 OST)
@@ -20,7 +20,7 @@ It has two versions but only one difference between them; the first one has the 
 * Replaced the colored ghost with pixel ones
 * Added numb blue ghosts
 
-# To change
+### To change
 
 * Make different files with the classes to make the main file more readable
 * Replace the troll man player to the actual Pac-Man (animated)
@@ -30,7 +30,7 @@ It has two versions but only one difference between them; the first one has the 
 
 Discord = laura#5939
 
-### //ORIGINAL README
+# //ORIGINAL README
 
 ### Pacman in Python with PyGame
 
